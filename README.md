@@ -30,6 +30,22 @@ List and briefly explain the phases of the Software Development Life Cycle.
 **testing** - examine the software for any bugs and glitches
 **Compare** and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where
+each would be appropriate.
+
+**Waterfall methodology** - Linear and sequential, each phase is completed before moving on.
+
+- there is Low flexibility,
+  changes are hard to incorporate once a phase is complete.
+- Customer feedback comes late, after the product is developed.
+- Testing is done at the end of the development process.
+
+**Agile methodology** - Iterative and incremental, with multiple cycles (sprints).
+
+- High flexibility, adapts to changing requirements.
+- Regular customer feedback is incorporated into every sprint.
+- Testing is continuous and done after each iteration.
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 **Software Developer** - developing applications,programs and systems using programming languages and frameworks.
